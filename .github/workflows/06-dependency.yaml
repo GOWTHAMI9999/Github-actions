@@ -1,4 +1,4 @@
-name: Parallel
+name: Dependency
 on: [push]
 jobs:
   job-1:
